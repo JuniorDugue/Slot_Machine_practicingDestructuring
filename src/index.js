@@ -8,6 +8,8 @@ function App() {
   return (
     <div className="App">
       <h1>Slot Machines!</h1>
+      <Slots s1="🍊" s2="🍒" s3="🍊" />
+      <Slots s1="🍒" s2="🍒" s3="🍒" />
       <Slots s1="🍒" s2="🍒" s3="🍊" />
     </div>
   );
