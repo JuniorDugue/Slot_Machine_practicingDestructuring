@@ -1,2 +1,0 @@
-# Slot_Machine_practicingDestructuring
-Created with CodeSandbox
